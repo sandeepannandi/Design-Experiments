@@ -2,7 +2,7 @@
 
 A minimal React Native app demonstrating a lot of design and animations with the new SDK54, reanimated, gesture handling and skia.
 
-Deployed here :- [add link here]
+Deployed here :- [add link here]....
 ## Getting Started
 1. Install dependencies:
 ```bash
